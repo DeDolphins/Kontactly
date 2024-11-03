@@ -1,8 +1,9 @@
 
 
-<div style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 40 px; font-weight: bold; color: black; text-align: center; background-color: #f3f3f3; padding: 10 px; border-radius: 8 px;">
-    Bringing You Closer to Your Customers, One Conversation at a Time.
+<div style="text-align: center;">
+    <img src="images/GitHub_background_banner.png" alt="Bringing You Closer to Your Customers" width="600">
 </div>
+
 
 
 # Kontactly 🚀
