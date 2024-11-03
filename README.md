@@ -1,3 +1,10 @@
+
+
+<div style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 40 px; font-weight: bold; color: black; text-align: center; background-color: #f3f3f3; padding: 10 px; border-radius: 8 px;">
+    Bringing You Closer to Your Customers, One Conversation at a Time.
+</div>
+
+
 # Kontactly 🚀
 
 Welcome to Kontactly—a revolution in customer engagement that changes the game. Imagine a platform that doesn’t just serve; it connects. It transforms every interaction into a moment of meaningful communication. Kontactly is designed for those who dare to dream of a better way to engage with their customers. 🌟
