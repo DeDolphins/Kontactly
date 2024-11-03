@@ -33,14 +33,16 @@ The future is bright, and we’re just getting started. Kontactly is evolving to
 - **Customizable Reporting Dashboards**: Track what matters to you with tailored metrics. 📈
 - **Online Phone Calling**: Add a personal touch with voice capabilities built into your chatbot. ☎️
 
-## How to Add Kontactly to Your Website 🛠️
+## How to Integrate Kontactly into Your Website 🛠️
 
-1. **Sign up or Sign in** to Kontactly.
-2. **Train your model** with data that speaks to your audience.
-3. **Edit your chatbot’s layout** to reflect your brand’s unique style.
-4. **Copy the Embedding Code**: Click "Embedding Code" on your dashboard.
-5. **Paste the Code on Your Website**: Integrate it where you want your chatbot to shine. 🌟
-6. **Save and Refresh**: Watch your chatbot come to life, ready to engage with your visitors. 🎉
+1. **Create an Account**: Sign up or log in to Kontactly. ✨
+2. **Train Your Model**: Input data relevant to your target audience to customize your chatbot’s responses. 📊
+3. **Customize Your Chatbot**: Adjust the layout and design to align with your brand's identity. 🎨
+4. **Test the Chatbot**: Ensure everything is functioning correctly in the preview mode. 🔍
+5. **Retrieve the Embedding Code**: Navigate to the "Embedding Code" section on your dashboard. 📋
+6. **Copy the Code**: Copy the provided code to integrate the chatbot into your site. 📥
+7. **Embed the Code**: Paste the code in the desired location on your website where you want the chatbot to appear. 🌟
+8. **Finalize**: Save your changes and refresh your site to activate the chatbot, ready to assist your visitors. 🎉
 
 ## Getting Started 🚀
 
