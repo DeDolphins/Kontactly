@@ -6,7 +6,7 @@ Welcome to Kontactly—a revolution in customer engagement that changes the game
 
 Kontactly is for innovators, creators, and thinkers—those who understand that every conversation counts:
 
-- **Developers**: Your canvas awaits. With our flexible API, craft chatbots that aren’t just functional but beautifully personalized for your customers. 💻
+- **Developers**: Your canvas awaits. With our platform, craft chatbots that aren’t just functional but beautifully personalized for your customers. 💻
 - **Small Businesses**: You are the backbone of our economy. Let Kontactly simplify your support, giving you more time to do what you love. 🏪
 - **Self-Employed Professionals**: For those who navigate their own paths, we help you maintain meaningful client connections effortlessly. 💼
 - **Large Enterprises**: Scale up without losing the human touch. Kontactly grows with you, providing insights that matter. 🏢
