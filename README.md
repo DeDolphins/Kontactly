@@ -1,7 +1,7 @@
 
 
 <div style="text-align: center;">
-    <img src="images/GitHub_background_banner.png" alt="GitHub Background Banner" style="display: inline-block;">
+    <img src="images/Kontactly github banner.png" alt="GitHub Background Banner" style="display: inline-block;">
 </div>
 
 # Kontactly 🚀
